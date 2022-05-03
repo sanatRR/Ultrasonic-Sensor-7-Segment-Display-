@@ -27,9 +27,6 @@
 **Date of Submission: 25th April 2022**
 
 
-Description automatically generated](Aspose.Words.ea0014dc-e67a-4fdb-8e36-19a396a75626.001.png)
-
-
 ## **Problem Statement**
 Write a program to interface Doppler sensor (HC-SR04) to LPC 1768 and display the distance of an object on a 7-Segment Display
 
